@@ -2,7 +2,7 @@
 1.Launch 3 EC2 instances 
 	Jenkins
 	SonarQube
-	Docker
+        Docker
     
 2.Setup Jenkins Server
     expose port 8080
